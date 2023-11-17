@@ -3,5 +3,9 @@ h1{
     color: black;
     text-align: center;
     background-color: red;
-
+}
+p{
+    font-size: 25px ;
+    color: gray;
+    text-align: center;
 }
